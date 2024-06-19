@@ -33,7 +33,7 @@ reach me at :
 
 ## Frameworks and Libraries :
 <h3>
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />&nbsp;
