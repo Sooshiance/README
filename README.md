@@ -25,37 +25,37 @@ reach me at :
 
 Languages : 
 <h3>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="40" height="40" title="Rust" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40" />&nbsp;
 </h3>
 
 Frameworks and Libraries :
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" />&nbsp;
 </div>
 
 Databases :
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40" />&nbsp;
 </div>
 
 Open Source
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" />&nbsp;
 </div>
 
 Tools and Others
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" width="40" height="40" />&nbsp;
 </div>
