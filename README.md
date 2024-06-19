@@ -12,7 +12,7 @@ reach me at :
 
 :telescope: I'm looking for new security issues of frameworks and libraries
 
-:seedling: Return to old feelings like C and Java in University
+:seedling: Return to old feelings : reading C and Java, like when I was in University
 
 :penguin: I'm currently reading about Linux OS 
 
@@ -23,7 +23,7 @@ reach me at :
 
 <h2>:hammer_and_wrench: Languages and Tools : </h2>
 
-Languages : 
+## Languages : 
 <h3>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" />&nbsp;
@@ -31,7 +31,7 @@ Languages :
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40" />&nbsp;
 </h3>
 
-Frameworks and Libraries :
+## Frameworks and Libraries :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" width="40" height="40" />&nbsp;
@@ -42,19 +42,19 @@ Frameworks and Libraries :
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" />&nbsp;
 </div>
 
-Databases :
+## Databases :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40" />&nbsp;
 </div>
 
-Open Source
+## Open Source
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" />&nbsp;
 </div>
 
-Tools and Others
+## Tools and Others
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" width="40" height="40" />&nbsp;
