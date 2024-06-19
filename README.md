@@ -36,8 +36,6 @@ reach me at :
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" />&nbsp;
 </div>
@@ -57,5 +55,4 @@ reach me at :
 ## Tools and Others
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" width="40" height="40" />&nbsp;
 </div>
