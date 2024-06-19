@@ -21,7 +21,7 @@ reach me at :
 :clock12: I'm currently learning everything
 
 
-<h2>:hammer_and_wrench: Languages and Tools : </h2>
+<h1>:hammer_and_wrench: Languages and Tools : </h1>
 
 ## Languages : 
 <h3>
