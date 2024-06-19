@@ -32,7 +32,7 @@ reach me at :
 </h3>
 
 ## Frameworks and Libraries :
-<h3>
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />&nbsp;
@@ -40,22 +40,22 @@ reach me at :
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />&nbsp;
-</h3>
+</div>
 
 ## Databases :
-<h3>
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" />&nbsp;
-</h3>
+</div>
 
 ## Open Source
-<h3>
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />&nbsp;
-</h3>
+</div>
 
 # Tools and Others
-<h3>
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" />&nbsp;
-</h3>
+</div>
