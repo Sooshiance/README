@@ -1,4 +1,4 @@
-# <h1>Hi I'm Mehdi known as Sooshiance :smiley:</h1>
+# <h1>Hi I'm Mehdi</h1>
 
 reach me at :
 
