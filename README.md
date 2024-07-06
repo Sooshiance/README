@@ -4,7 +4,7 @@ reach me at :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-davari-6aa787243/)
 
-<h2>I'm a Developer, Writer and Educator</h2>
+<h2>I'm a Developer, Writer and Creator</h2>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
