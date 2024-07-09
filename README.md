@@ -21,7 +21,7 @@ reach me at :
 :clock12: I'm currently learning everything
 
 
-<h1>:hammer_and_wrench: Languages and Tools : </h1>
+<h1>:hammer_and_wrench: Languages and Tools (<h2>updating ...</h2>) : </h1>
 
 ## Languages : 
 <h3>
@@ -56,7 +56,3 @@ reach me at :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="40" height="40" />&nbsp;
 </div>
-
-<h2>
-updating ...
-</h2>
