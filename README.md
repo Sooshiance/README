@@ -16,7 +16,7 @@ reach me at :
 
 :penguin: I'm currently reading about Linux OS 
 
-:rofl: FUN FACT : I like to walk in the rain:cloud_with_rain:
+:rofl: FUN FACT : I like to walk in the rain :cloud_with_rain:
 
 :clock12: I'm currently learning everything
 
@@ -56,3 +56,7 @@ reach me at :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="40" height="40" />&nbsp;
 </div>
+
+<h2>
+updating ...
+</h2>
