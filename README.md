@@ -14,16 +14,16 @@ reach me at :
 
 :seedling: Return to old feelings : reading C and Java, like when I was in University
 
-:penguin: I'm currently reading about Linux OS 
+:penguin: I'm currently reading about Linux OS
 
 :rofl: FUN FACT : I like to walk in the rain :cloud_with_rain:
 
 :clock12: I'm currently learning everything
 
-
 <h1>:hammer_and_wrench: Languages and Tools (updating ...) : </h1>
 
-## Languages : 
+## Languages :
+
 <h3>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" />&nbsp;
@@ -32,6 +32,7 @@ reach me at :
 </h3>
 
 ## Frameworks and Libraries :
+
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" width="40" height="40" />&nbsp;
@@ -41,18 +42,22 @@ reach me at :
 </div>
 
 ## Databases :
+
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40" />&nbsp;
 </div>
 
 ## Open Source
+
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40" />&nbsp;
 </div>
 
 ## Tools and Others
+
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="40" height="40" />&nbsp;
 </div>
